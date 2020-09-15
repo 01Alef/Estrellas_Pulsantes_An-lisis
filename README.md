@@ -1,1 +1,1 @@
-# Estrellas_Pulsantes_An-lisis
+# Estrellas_Pulsantes_Analisis
